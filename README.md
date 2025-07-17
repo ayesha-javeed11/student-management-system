@@ -31,6 +31,9 @@ A comprehensive **Student Management System** built with **Spring Boot**, **Java
 ```bash
 git clone:
  https://github.com/ayesha-javeed11/student-management-system.git
+preview
+![Dashboard](https://raw.githubusercontent.com/ayesha-javeed11/student-management-system/main/Dashboard.png)
+
 2.Set up the MySQL database
 Create a database named student_db (or as configured in application.properties), and update your MySQL username and password.
 ## 📸 Preview
