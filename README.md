@@ -34,7 +34,7 @@ git clone:
 2.Set up the MySQL database
 Create a database named student_db (or as configured in application.properties), and update your MySQL username and password.
 ## 📸 Preview
-https://raw.githubusercontent.com/ayesha-javeed11/student-management-system/7c1d3dc9b3aadfa61637546dd9ae797a51d3e174/Dashboard.png
+![Dashboard](https://raw.githubusercontent.com/ayesha-javeed11/student-management-system/main/Dashboard.png)
 
 
 
